@@ -1,0 +1,7 @@
+*-bak
+*.zip
+_autosave*
+*.log
+
+Transcode Report.txt
+fp-info-cache

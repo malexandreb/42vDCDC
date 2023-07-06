@@ -1,0 +1,23 @@
+Drill report for 42Vdownto5V.kicad_pcb
+Created on 2023-06-26 8:42:20
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '42Vdownto5V.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (25 holes)
+    T2  1.000mm  0.0394"  (4 holes)
+
+    Total plated holes count 29
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
